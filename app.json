@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "tabs",
-    "slug": "tabs",
+    "name": "covid",
+    "slug": "covid",
     "platforms": [
       "ios",
       "android",
