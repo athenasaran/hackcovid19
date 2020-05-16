@@ -6,8 +6,10 @@ export default {
     Root: {
       path: 'root',
       screens: {
-        Home: 'home',
-        Links: 'links',
+        Login: 'login',
+        Diary: 'diary',
+        Orientation: 'orientation',
+        Profile: 'profile',
       },
     },
   },

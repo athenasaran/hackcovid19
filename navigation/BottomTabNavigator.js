@@ -3,7 +3,7 @@ import * as React from "react";
 
 import TabBarIcon from "../components/TabBarIcon";
 import DiaryScreen from "../screens/DiaryScreen";
-import OrientationScreen from "../screens/ProfileScreen";
+import OrientationScreen from "../screens/OrientationScreen";
 import ProfileScreen from "../screens/ProfileScreen";
 import { Text } from "react-native";
 import Colors from "../constants/Colors";
